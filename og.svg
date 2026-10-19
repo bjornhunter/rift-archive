@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="g1" cx="70%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#2f7f5c" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#12211a" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#08090b" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="25%" cy="80%" r="55%">
+      <stop offset="0%" stop-color="#8e2b1f" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#08090b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#08090b"/>
+  <rect width="1200" height="630" fill="url(#g1)"/>
+  <rect width="1200" height="630" fill="url(#g2)"/>
+  <g stroke="#e9e2d0" stroke-opacity="0.12">
+    <path d="M0 120h1200M0 510h1200"/>
+    <path d="M80 0v630M1120 0v630"/>
+  </g>
+  <text x="80" y="90" fill="#8b939d" font-family="monospace" font-size="17" letter-spacing="7">FILE 47-Δ · RESTRICTED · EDITION 2</text>
+  <text x="76" y="270" fill="#e9e2d0" font-family="Oswald, Arial Narrow, sans-serif" font-size="104" letter-spacing="2">THE RIFT ARCHIVE</text>
+  <text x="80" y="345" fill="#5ce1a0" font-family="Oswald, Arial Narrow, sans-serif" font-size="46" letter-spacing="3">THE WAR THAT REFUSED TO END</text>
+  <text x="80" y="420" fill="#cfc7b3" font-family="Georgia, serif" font-size="26">The world, powers, Rift-tech and campaigns of Konflikt ’47</text>
+  <text x="80" y="560" fill="#5d646d" font-family="monospace" font-size="16" letter-spacing="4">TWO OPEN RIFTS · FIVE POWERS · 1947</text>
+  <g transform="translate(1000 470)" stroke="#5ce1a0" fill="none" stroke-width="2">
+    <path d="M0 0 40 22v44L0 88-40 66V22z"/>
+    <circle cx="0" cy="44" r="14"/>
+  </g>
+</svg>
